@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\bin\Debug\netcoreapp3.1\EmpWage_Using_Ooops.exe
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\bin\Debug\netcoreapp3.1\EmpWage_Using_Ooops.deps.json
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\bin\Debug\netcoreapp3.1\EmpWage_Using_Ooops.runtimeconfig.json
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\bin\Debug\netcoreapp3.1\EmpWage_Using_Ooops.runtimeconfig.dev.json
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\bin\Debug\netcoreapp3.1\EmpWage_Using_Ooops.dll
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\bin\Debug\netcoreapp3.1\EmpWage_Using_Ooops.pdb
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\obj\Debug\netcoreapp3.1\EmpWage_Using_Ooops.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\obj\Debug\netcoreapp3.1\EmpWage_Using_Ooops.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\obj\Debug\netcoreapp3.1\EmpWage_Using_Ooops.AssemblyInfo.cs
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\obj\Debug\netcoreapp3.1\EmpWage_Using_Ooops.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\obj\Debug\netcoreapp3.1\EmpWage_Using_Ooops.dll
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\obj\Debug\netcoreapp3.1\EmpWage_Using_Ooops.pdb
+C:\Users\HP\source\repos\EmpWage_Using_Ooops\EmpWage_Using_Ooops\obj\Debug\netcoreapp3.1\EmpWage_Using_Ooops.genruntimeconfig.cache
